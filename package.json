@@ -1,0 +1,16 @@
+{
+  "name": "tribecodingchallenge",
+  "version": "1.0.0",
+  "description": "Automation testing for sign up function (as a new user) in Tribe Web",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Luisa Gloria",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^80.0.1",
+    "geckodriver": "^1.19.1",
+    "nightwatch": "^1.3.4"
+  }
+}
